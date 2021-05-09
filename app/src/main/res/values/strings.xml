@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Constraints Layout</string>
+    <string name="singapore">singapore</string>
+
+    <string name="leica_m_typ_240">Leica M Typ 240</string>
+
+    <string name="todo">TODO</string>
+    <string name="camera">Camera</string>
+    <string name="f_4_16s_iso_200">f/4 16s ISO 200</string>
+    <string name="textview">
+Singapore is both an island and a country, but perhaps its best description is that of city-state. Like the great city-states of the past, it offers civilization and order in the highest degree. Its combination of Western-style development and Eastern-style calm seems to present the best of both hemispheres:
+
+
+
+    </string>
+
+</resources>
